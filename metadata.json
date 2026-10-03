@@ -1,0 +1,6 @@
+{
+  "name": "Foddie Express",
+  "description": "Restaurants, groceries, and essentials delivered to your door fast with Foddie Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
